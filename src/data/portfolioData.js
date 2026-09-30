@@ -13,7 +13,7 @@ const portfolioData = {
     linkedin: "http://www.linkedin.com/in/amit-singh-a7417826b",
     github: "https://github.com/amitttsingh56",
     profileImage: profileImg,
-    resumeFile: "/Amit_Singh_Resume.pdf",
+    resumeFile: `${import.meta.env.BASE_URL}Amit_Singh_Resume.pdf`,
   },
 
   hero: {
