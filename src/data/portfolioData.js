@@ -163,6 +163,25 @@ const portfolioData = {
     },
     {
       id: 2,
+      title: "Developer Portfolio Website",
+      category: "Web Development",
+      date: "2026",
+      featured: false,
+      description:
+        "Modern, high-performance personal portfolio website built with React, Vite, and Tailwind CSS. Features dark-theme aesthetics, glassmorphism cards, interactive project showcases, responsive layout, and smooth animations.",
+      features: [
+        "Modern dark-theme aesthetics with glassmorphism UI",
+        "Component-driven architecture with decoupled data store",
+        "Interactive project showcase and verified credential links",
+        "Integrated downloadable PDF resume and direct contact channels",
+        "High-performance Vite build deployed live on Vercel",
+      ],
+      technologies: ["React", "Vite", "Tailwind CSS", "JavaScript"],
+      github: "https://github.com/amitttsingh56/portfolio-new",
+      live: "https://portfolio-new-pi-ecru.vercel.app/",
+    },
+    {
+      id: 3,
       title: "Bus Wali Playlist",
       category: "Web Development",
       date: "Aug 2025",
